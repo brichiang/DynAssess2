@@ -1,0 +1,19 @@
+.slider {
+    width: 60px;
+}
+#rangeB {
+    background-color: aquamarine;
+    color: crimson;
+}
+#NumB {
+    background-color: blueviolet;
+    color: azure;
+}
+#RanB {
+    background-color: cadetblue;
+    color: antiquewhite;
+}
+#AddB {
+    background-color: dodgerblue;
+    color: floralwhite;
+}
